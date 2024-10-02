@@ -32,15 +32,15 @@ Using MMC-selected masks, we further improve the masked fusion mechanism within 
 Our approach can be seamlessly integrated into existing zero-shot video editing frameworks with better performance, requiring no control assistance or parameter fine-tuning but enabling adaptive decoupling of unedited semantic layouts with mask precision control. 
 Extensive experiments demonstrate that FreeMask achieves superior semantic fidelity, temporal consistency, and editing quality compared to state-of-the-art methods.
 
-<!-- ## Updates
-The code and pre-trained models will be made publicly available after they pass internal review (expected 2-3 weeks). Stay tuned for updates! The codebase is based on [**RLIPv1**](https://github.com/JacobYuan7/RLIP). -->
+## Updates
+Code will be made publicly available after meticulous internal review. Stay tuned ⭐ for updates!
 
 ## Citation
 ```bibtex
-<!-- @inproceedings{XXXX,
+@article{Cai2024FreeMask,
   title={FreeMask: Rethinking the Importance of Attention Masks for Zero-shot Video Editing},
   author={Lingling Cai and Kang Zhao and Hangjie Yuan and Yingya Zhang and Shiwei Zhang and Kejie Huang},
-  booktitle={Arxiv},
+  journal={arXiv preprint arXiv:2409.20500},
   year={2024}
-} --> -->
+}
 ```
