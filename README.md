@@ -33,7 +33,9 @@
 @inproceedings{cai2025freemask,
    title={FreeMask: Rethinking the Importance of Attention Masks for Zero-shot Video Editing},
    author={Cai, Lingling and Zhao, Kang and Yuan, Hangjie and Zhang, Yingya and Zhang, Shiwei and Huang, Kejie},
-   booktitle={Proceedings of the Thirty-Ninth Conference on Association for the Advancement of Artificial Intelligence (AAAI-25)},year={2025}}
+   booktitle={Proceedings of the Thirty-Ninth Conference on Association for the Advancement of Artificial Intelligence (AAAI-25)},
+   year={2025}
+}
 ```
 
 
